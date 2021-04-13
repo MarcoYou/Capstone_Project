@@ -33,3 +33,8 @@ All the following variables below are aggregated in terms of date and hourly int
 - Weekend indicator (1 if weekend 0 ifnot)
 - Average number of transfers of the fastest trips
 - Average speed of the fastest trips
+
+## References
+
+Visualisation
+https://www.kaggle.com/subinium/dark-mode-visualization-apple-version
