@@ -36,7 +36,7 @@ All the following variables below are aggregated in terms of date and hourly int
 
 ## Results
 
-Plot images are in the Plot folder.
+Plot images are in the Plots folder.
 
 Regression results won't be available due to the conditions of NDA.
 
