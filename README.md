@@ -34,6 +34,12 @@ All the following variables below are aggregated in terms of date and hourly int
 - Average number of transfers of the fastest trips
 - Average speed of the fastest trips
 
+## Results
+
+Plot images are in the Plot folder.
+
+Regression results won't be available due to the conditions of NDA.
+
 ## References
 
 Visualisation
